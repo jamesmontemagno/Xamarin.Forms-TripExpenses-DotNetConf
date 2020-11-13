@@ -5,7 +5,7 @@ Xamarin Forms Azure Demo of a simple
 
 ##Setup
 
-* Signup for an Azure Mobile Services account: https://azure.microsoft.com/services/mobile-services/?WT.mc_id=friends-0000-jamont
+* Signup for an Azure Mobile Services account: https://azure.microsoft.com/services/mobile-services/?WT.mc_id=-0000-jamont
 * Create a new Azure Mobile Services Table Called "TripExpense"
 * Open "AzureService.cs" in TripExpenses shared project
 * Edit: MobileService = new MobileServiceClient(
@@ -15,5 +15,5 @@ Xamarin Forms Azure Demo of a simple
 
 ##Watch
 
-* Full Session on Channel 9: https://channel9.msdn.com/Events/dotnetConf/2014/Developing-Native-iOS-Android-and-Windows-Apps-with-Xamarin?WT.mc_id=friends-0000-jamont
+* Full Session on Channel 9: https://channel9.msdn.com/Events/dotnetConf/2014/Developing-Native-iOS-Android-and-Windows-Apps-with-Xamarin?WT.mc_id=-0000-jamont
 * Slides available: http://www.slideshare.net/JamesMontemagno/dotnetconf-introduction-to-xamarin-and-xamarinforms
